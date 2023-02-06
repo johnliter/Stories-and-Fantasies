@@ -1,0 +1,17 @@
+body {
+    background: #FFF8DC;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Copperplate", Fantasy;
+    font-size: 80px;
+    color: #000;
+}
+
+p {
+   font-family: "Papyrus", Fantasy;
+}
